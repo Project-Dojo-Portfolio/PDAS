@@ -1,2 +1,2 @@
 # PDAS
-React App with Yarn and Vite
+React Apps with Yarn and Vite
