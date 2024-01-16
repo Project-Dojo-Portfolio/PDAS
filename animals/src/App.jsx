@@ -21,9 +21,9 @@ function App() {
     });
 
     return (
-        <div>
+        <div className='app'>
             <button onClick={handleClick}>Add animal</button>
-            <div>{renderedAnimals}</div>
+            <div className='animal-list'>{renderedAnimals}</div>
         </div>
     );
 }
